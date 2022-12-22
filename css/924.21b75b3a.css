@@ -1,0 +1,18 @@
+
+.upload-area-padding[data-v-e27ff2de] {
+	border: 10px dashed #ccc;
+	margin: 20px;
+	padding: 80px;
+	/* background: #cfc5c5; */
+	cursor: pointer;
+}
+.upload-progress-indicators[data-v-e27ff2de] {
+	text-align: center;
+}
+.upload-progress-bar[data-v-e27ff2de] {
+	padding: 5px;
+}
+.upload-settings-section[data-v-e27ff2de] {
+	text-align: center;
+}
+
